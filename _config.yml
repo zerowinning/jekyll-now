@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+theme: jekyll-theme-cayman
 # Name of your site (displayed in the header)
 name: 最终胜利
 
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: zerowinning
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -84,5 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-leap-day
