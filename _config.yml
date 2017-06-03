@@ -1,12 +1,12 @@
 #
 # This file contains configuration flags to customize your site
 #
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
 # Name of your site (displayed in the header)
 name: 最终胜利
 
 # Short bio or description (displayed in the header)
-description: 研究技术的个人网站 by zerowinning
+description: 研究信息技术的个人网站 by zerowinning
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/zerowinning/zerowinning.github.io/master/images/120.png
